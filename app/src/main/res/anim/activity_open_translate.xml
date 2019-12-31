@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /**
+  ~  * Created by Muhammad Sayed on 16/04/19 23:44
+  ~  * Copyright (c) 2019 . All rights reserved.
+  ~  * Last modified 16/04/19 20:52
+  ~  */
+  -->
+
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <translate
+            android:duration="@android:integer/config_shortAnimTime"
+            android:fromXDelta="100%"
+            android:toXDelta="0%"/>
+</set>

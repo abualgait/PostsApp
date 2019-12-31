@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ /**
+  ~  * Created by Muhammad Sayed on 4/30/19 2:57 PM
+  ~  * Copyright (c) 2019 . All rights reserved.
+  ~  * Last modified 3/24/19 1:54 PM
+  ~  */
+  -->
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/linEmptyData"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+    <ImageView
+        android:id="@+id/imgNoResult"
+        android:layout_width="@dimen/_100sdp"
+        android:layout_height="@dimen/_100sdp"
+        android:contentDescription="@string/app_name"
+        android:tint="@color/warm_grey"
+        app:srcCompat="@drawable/ic_cactus" />
+
+    <TextView
+        android:id="@+id/tvNoResult"
+        style="@style/TextViewStyle"
+        android:layout_marginLeft="@dimen/_15sdp"
+        android:layout_marginTop="@dimen/_15sdp"
+        android:layout_marginRight="@dimen/_15sdp"
+        android:gravity="center"
+        android:text="@string/no_data_found"
+        android:textColor="@color/warm_grey"
+        android:textSize="@dimen/_14ssp" />
+</LinearLayout>

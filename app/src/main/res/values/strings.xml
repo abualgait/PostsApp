@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Thiqah</string>
+
+
+    <!--view flipper-->
+    <string name="internet_connection_has_been_lost">internet connection has been lost</string>
+    <string name="retry">retry</string>
+
+
+    <string name="no_data_found">No data found</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="edited_post_str">post has been edited</string>
+    <string name="deleted_post_str">post has been deleted</string>
+    <string name="post_added_str">new post added</string>
+    <string name="cannotpost_while_offline">can\'t post while offline</string>
+    <string name="cannotdelete_while_offline">can\'t delete while offline</string>
+    <string name="cannotedit_while_offline">can\'t edit while offline</string>
+    <string name="loading">loading</string>
+
+</resources>

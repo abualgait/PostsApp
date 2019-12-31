@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ثقة</string>
+
+
+    <!--view flipper-->
+    <string name="internet_connection_has_been_lost">لا يوجد أتصال بالانترنت</string>
+    <string name="retry">حاول ثانية</string>
+
+
+    <string name="no_data_found">لا يوجد بيانات</string>
+    <string name="something_went_wrong">حدث خطأ ما</string>
+    <string name="edited_post_str">تم تحديث المنشور</string>
+    <string name="deleted_post_str">تم ازالة المنشور</string>
+    <string name="post_added_str">تم اضافة منشور جديد</string>
+    <string name="cannotpost_while_offline">لا يمكن النشر بدون انترنت</string>
+    <string name="cannotdelete_while_offline">لا يمكن المسح بدون انترنت</string>
+    <string name="cannotedit_while_offline">لا يمكن التعديل بدون انترنت</string>
+    <string name="loading">loading</string>
+
+</resources>
