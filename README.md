@@ -1,4 +1,4 @@
-# Thiqah
+# PostsApp
 
 # Android app for domenstrating clean code 
 <p>Project Contains the following :</p> 
